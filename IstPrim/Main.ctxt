@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\ Checks\ if\ an\ input\ value\ is\ a\ prime\ number\r\n\ \ \ \ @author\ Jan-Lukas\ Knoch\ \r\n@version\ 1.0.0
+comment1.params=x
+comment1.target=boolean\ istPrim(int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
