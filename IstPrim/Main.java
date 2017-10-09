@@ -1,12 +1,12 @@
 /** Checks if an input value is a prime number
     @author Jan-Lukas Knoch 
-    @version 1.2.0 */
+    @version 1.2.2 */
 
 public class Main
 {
     public static boolean istPrim (int x)
     {
-        boolean y = false;   
+        boolean y = true;   
     
         if (x == 2)
         {
@@ -26,7 +26,7 @@ public class Main
                     
                     if (ceiling != 1 && ceiling != x)
                     {            
-                        y = true;
+                        y = false;
                         break;          
                     }
                 }
